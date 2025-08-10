@@ -1,1 +1,1 @@
-Collection of python modules used to understand power law and regression
+A collection of python modules to plot different aspects of the Power Law price model of bitcoin 
